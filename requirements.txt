@@ -1,0 +1,8 @@
+streamlit
+scikit-learn
+networkx
+pandas
+numpy
+requests
+beautifulsoup4
+PyPDF2

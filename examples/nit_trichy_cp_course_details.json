@@ -1,0 +1,53 @@
+[
+  {
+    "id": "1551",
+    "course_code": "AR507",
+    "course_name": "ARCHITECTURAL DESIGN–VIII",
+    "program": "B.Arch.",
+    "department": "Architecture",
+    "semester": "9",
+    "session": "July2026",
+    "faculty": "Dr. K. THIRUMARAN Dr. D. Kannamma",
+    "course_coordinators": "",
+    "pdf_url": "https://cp.nitt.edu/upload/course_pdfs/AR507_July2026.pdf",
+    "assessment_structure": [
+      {
+        "name": "Report, Data collection, & Literature review",
+        "percentage": 20
+      },
+      {
+        "name": "concept",
+        "percentage": 10
+      },
+      {
+        "name": "Design Progress",
+        "percentage": 10
+      },
+      {
+        "name": "MID SEM",
+        "percentage": 15
+      },
+      {
+        "name": "END SEM",
+        "percentage": 15
+      },
+      {
+        "name": "END SEM EXAM",
+        "percentage": 30
+      }
+    ]
+  },
+  {
+    "id": "1192",
+    "course_code": "CA6D3",
+    "course_name": "Natural Language Processing",
+    "program": "M.Tech.",
+    "department": "Data Analytics",
+    "semester": "2",
+    "session": "Jan2026",
+    "faculty": "Dr. S. Sangeetha",
+    "course_coordinators": "Dr. Ashwinth J",
+    "pdf_url": "https://cp.nitt.edu/upload/course_pdfs/CA6D3_Jan2026.pdf",
+    "assessment_structure": ""
+  }
+]

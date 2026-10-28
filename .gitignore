@@ -1,0 +1,24 @@
+# Local environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.DS_Store
+*.log
+.env
+.env.*
+*.pem
+*.key
+# Downloaded documents, extracted corpus, and crawl state
+/data/*
+!/data/README.md
+/work/
+# Evaluation outputs and local evidence; keep reusable code and questions
+/evaluation/*
+!/evaluation/run_benchmark.py
+!/evaluation/build_report.py
+!/evaluation/questions.json
+!/evaluation/README.md
